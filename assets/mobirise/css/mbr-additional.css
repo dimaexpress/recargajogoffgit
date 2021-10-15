@@ -689,6 +689,31 @@ a {
   color: #ffffff;
   text-align: center;
 }
+.cid-sLQTMcY0dE {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #ffffff;
+}
+.cid-sLQTMcY0dE .card-wrapper {
+  padding-right: 2rem;
+}
+@media (max-width: 992px) {
+  .cid-sLQTMcY0dE .card {
+    margin-bottom: 2rem!important;
+  }
+  .cid-sLQTMcY0dE .card-wrapper {
+    padding: 0 1rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sLQTMcY0dE .link-wrap {
+    align-items: center;
+  }
+}
+.cid-sLQTMcY0dE .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
 .cid-sJ2RwEEopu {
   padding-top: 2rem;
   padding-bottom: 5rem;

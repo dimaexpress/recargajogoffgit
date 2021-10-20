@@ -692,7 +692,7 @@ a {
 .cid-sLQTMcY0dE {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 .cid-sLQTMcY0dE .card-wrapper {
   padding-right: 2rem;
@@ -713,6 +713,10 @@ a {
 .cid-sLQTMcY0dE .image-wrapper img {
   width: 100%;
   object-fit: cover;
+}
+.cid-sLQTMcY0dE .card-title,
+.cid-sLQTMcY0dE .card-box {
+  color: #ffffff;
 }
 .cid-sJ2RwEEopu {
   padding-top: 2rem;

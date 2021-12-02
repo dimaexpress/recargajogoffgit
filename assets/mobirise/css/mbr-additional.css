@@ -689,6 +689,40 @@ a {
   color: #ffffff;
   text-align: center;
 }
+.cid-sQswpob4ld {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-color: #000000;
+}
+.cid-sQswpob4ld .card-wrapper {
+  padding-right: 2rem;
+}
+@media (max-width: 992px) {
+  .cid-sQswpob4ld .card {
+    margin-bottom: 2rem!important;
+  }
+  .cid-sQswpob4ld .card-wrapper {
+    padding: 0 1rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-sQswpob4ld .link-wrap {
+    align-items: center;
+  }
+}
+.cid-sQswpob4ld .image-wrapper img {
+  width: 100%;
+  object-fit: cover;
+}
+.cid-sQswpob4ld .card-title,
+.cid-sQswpob4ld .card-box {
+  color: #ffffff;
+}
+.cid-sQswpob4ld .mbr-text,
+.cid-sQswpob4ld .link-wrap,
+.cid-sQswpob4ld .mbr-section-btn {
+  color: #ecf900;
+}
 .cid-sLQTMcY0dE {
   padding-top: 6rem;
   padding-bottom: 6rem;

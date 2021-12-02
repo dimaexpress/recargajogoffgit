@@ -683,11 +683,26 @@ a {
   transition: color 0.6s;
 }
 .cid-sJ2NEkj8Gb {
-  background-image: url("../../../assets/images/free-fire-2-984x554.jpg");
+  background-image: url("../../../assets/images/260680964-6770535312986861-3775874467940219207-n-1638x2048.jpg");
 }
 .cid-sJ2NEkj8Gb .mbr-section-title {
   color: #ffffff;
   text-align: center;
+}
+.cid-sJ2NEkj8Gb .mbr-text,
+.cid-sJ2NEkj8Gb .mbr-section-btn {
+  color: #ecf900;
+}
+.cid-sQsxvh6BuL {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-sQsxvh6BuL .line {
+  background-color: #6592e6;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
 .cid-sQswpob4ld {
   padding-top: 6rem;
